@@ -1,0 +1,1 @@
+Repositório criado com o intuito de estar sendo frequentemente atualizado e implementado de acordo com o meu aprendizado e evolução, sendo utilizado para testes e features.
